@@ -155,10 +155,10 @@ if query:
                     st.error("🚨 لا يطلع الخبر:")
                     st.warning(students[match]['secret'])
                 elif password:
-                    st.error("رمز الوصول خاطئ. كلمني على الانستا [ax_zr11](https://instagram.com/ax_zr11)")
+                    st.error("رمز الوصول خاطئ جرب 'a5h1l'.لو ما عرفت كلمني على الانستا[ax_zr11](https://instagram.com/ax_zr11)")
     else:
         st.write("❌ الاسم غير موجود في القائمة السوداء.")
 
 st.sidebar.markdown("---")
 st.sidebar.write("🕵️‍♂️ **المعلومات متعوب عليها**")
-st.sidebar.write("لطلب الباسورد: [ax_zr11](https://instagram.com/ax_zr11)")
+st.sidebar.write("صاحب الموقع:(اصيل)[ax_zr11](https://instagram.com/ax_zr11)")
